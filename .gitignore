@@ -1,0 +1,8 @@
+__pycache__/
+*.pyc
+.env
+user_config.json
+.clisky_config.json
+dist/
+build/
+*.egg-info
