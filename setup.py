@@ -2,7 +2,9 @@ from setuptools import setup, find_packages
 
 setup(
     name="clisky",
-    version="1.0",
+    version="0.1.0",
+    description="AI-powered Linux CLI command recommender",
+    author="Naksh",
     packages=find_packages(),
     install_requires=[
         "click",

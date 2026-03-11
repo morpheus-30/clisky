@@ -1,5 +1,8 @@
 # Clisky ⚡
 
+[![PyPI version](https://img.shields.io/pypi/v/clisky)](https://pypi.org/project/clisky/)
+[![Python](https://img.shields.io/pypi/pyversions/clisky)](https://pypi.org/project/clisky/)
+
 AI-Powered Linux CLI Command Recommender
 
 Clisky lets you turn natural language into Linux commands.
